@@ -1,4 +1,4 @@
-# Pong
+# Snake
 This is a clone of the classic game Snake/Nibbles.
 
 ## Itch.IO
